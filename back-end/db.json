@@ -1,0 +1,36 @@
+{
+  "vehicles": [
+    {
+      "id": "KA00AA0000",
+      "type": "HATCHBACK"
+    },
+    {
+      "id": "KA002AA",
+      "type": "HATCHBACK"
+    }
+  ],
+  "receipts": [
+    {
+      "id": "1",
+      "vehicleId": "KA00AA0000",
+      "type": "RETURN",
+      "amount": 100,
+      "createdOn": "2021-05-31T22:38:54+05:30",
+      "used": false
+    },
+    {
+      "vehicleId": "KA002AA",
+      "type": "ONE_WAY",
+      "amount": 100,
+      "used": true,
+      "id": "5FyV02c"
+    },
+    {
+      "vehicleId": "KA002AA",
+      "type": "ONE_WAY",
+      "amount": 100,
+      "used": true,
+      "id": "78T5pNC"
+    }
+  ]
+}

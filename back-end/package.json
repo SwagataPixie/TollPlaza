@@ -1,0 +1,11 @@
+{
+  "name": "back-end",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "scripts": {
+    "start": "json-server --watch --port 8080 db.json"
+  }
+}
